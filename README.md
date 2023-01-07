@@ -1,0 +1,1 @@
+we are creating repo from local machine by git  init
